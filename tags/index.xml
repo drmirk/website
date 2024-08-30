@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ইবট নিউজ - সর্বশেষ সংবাদ, বিশেষ সংবাদ , শীর্ষস্থানীয় ঘটনা এবং লাইফস্টাইল, সব একসাথে!!!</title>
-    <link>https://ebot.news/tags/</link>
+    <link>https://drmirk.github.io/website/tags/</link>
     <description>Recent content in Tags on ইবট নিউজ - সর্বশেষ সংবাদ, বিশেষ সংবাদ , শীর্ষস্থানীয় ঘটনা এবং লাইফস্টাইল, সব একসাথে!!!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ebot.news/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://drmirk.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
